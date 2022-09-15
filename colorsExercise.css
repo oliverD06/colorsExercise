@@ -1,0 +1,27 @@
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: #F6901D;
+}
+
+h3 {
+    color: #ff1;
+}
+
+h4 {
+    color: #74ff11ff;
+}
+
+h5 {
+    color: #07ef;
+}
+
+h6 {
+    color: rgb(36, 0, 238)
+}
+
+p {
+    color: rgba(197, 0, 238, 1);
+}
